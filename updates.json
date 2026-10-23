@@ -22,8 +22,8 @@
       ],
       "releasePage": "https://github.com/SomeshProgARC/RevitXcelerate-Updates/releases/tag/v1.0.0",
       "installerUrl": "https://github.com/SomeshProgARC/RevitXcelerate-Updates/releases/download/v1.0.0/RevitXcelerate-Setup-0.1.0-alpha.18.exe",
-      "sha256": "1B2854AD29047870594EDD82E524265F9E394159C1DFD0374DD2DF64C5743629",
-      "notes": "RevitXcelerate lightweight build (44 registered commands, multi-year payload packaging)."
+      "sha256": "887FB0FF1EEECD11D7AFC2DDB4D6D4C81636320910199ECB06B6B4A9CD31C32B",
+      "notes": "RevitXcelerate build with unified Room Manager, batch numbering, property editing, unplaced room auditing, and auto-updater."
     }
   ]
 }
