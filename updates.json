@@ -1,4 +1,29 @@
 {
   "schemaVersion": 1,
-  "releases": []
+  "releases": [
+    {
+      "version": "1.0.0",
+      "revitYears": [
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "releasePage": "https://github.com/SomeshProgARC/RevitXcelerate-Updates/releases/tag/v1.0.0",
+      "installerUrl": "https://github.com/SomeshProgARC/RevitXcelerate-Updates/releases/download/v1.0.0/XipAddin-Setup-v1.0.0.exe",
+      "sha256": "13521B965AF82FB271488CC26F1E08F6A2C825A294F8C53CBE757D5CBCF1A81E",
+      "notes": "Full consolidated XIP Add-in release bundling 125 tools from GBIM-G04, POX, and NexaBIM for Revit 2025, 2026, and 2027."
+    },
+    {
+      "version": "0.1.0-alpha.18",
+      "revitYears": [
+        "2025",
+        "2026",
+        "2027"
+      ],
+      "releasePage": "https://github.com/SomeshProgARC/RevitXcelerate-Updates/releases/tag/v1.0.0",
+      "installerUrl": "https://github.com/SomeshProgARC/RevitXcelerate-Updates/releases/download/v1.0.0/RevitXcelerate-Setup-0.1.0-alpha.18.exe",
+      "sha256": "1B2854AD29047870594EDD82E524265F9E394159C1DFD0374DD2DF64C5743629",
+      "notes": "RevitXcelerate lightweight build (44 registered commands, multi-year payload packaging)."
+    }
+  ]
 }
